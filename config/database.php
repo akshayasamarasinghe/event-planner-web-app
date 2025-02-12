@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$db = 'event-planner-project';
+$db = 'event-planner-app-db';
 $user = 'root'; // Default MAMP user
 $pass = 'root'; // Default MAMP password
 
