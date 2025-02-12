@@ -1,4 +1,4 @@
-# PHP MySQL Authentication Project
+# Event Planner Web App
 
 This project is a simple PHP application with user registration and login functionality using MySQL. It includes password hashing for secure authentication.
 
