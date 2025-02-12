@@ -13,8 +13,9 @@ This project is a simple PHP application with user registration and login functi
 ### 1. Clone the Repository
 ```bash
 
-First, navigate to the cd /Applications/MAMP/htdocs or relevant server htdocs folder and then
-
+First, navigate to the /Applications/MAMP/htdocs or relevant server htdocs folder 
+cd /Applications/MAMP/htdocs 
+and then
 git clone https://github.com/akshayasamarasinghe/event-planner-web-app.git
 cd event-planner-web-app
 
